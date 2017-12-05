@@ -1,4 +1,4 @@
-package com.sarriaroman.PhotoViewer;
+package com.couleurcitron.PhotoViewer;
 
 import uk.co.senab.photoview.PhotoViewAttacher;
 
